@@ -1,1 +1,1 @@
-# silex-docs
+# silex
